@@ -1,0 +1,23 @@
+div {
+    background-color: yellow;
+}
+
+p#first {
+    background-color: black;
+}
+
+nav ul {
+    
+    display: grid;
+    grid-gap: 15px;
+    background-color: black;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 35px;
+    border-bottom: solid;
+
+}
+
+
+nav ul li a{
+    color: white;
+}
